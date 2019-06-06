@@ -1,4 +1,4 @@
-baseURL = "https://sunrise.audio/"
+baseURL = "https://www.sunrise.audio/"
 languageCode = "en-us"
 title = "Sunrise Audio"
 theme = "sunrise"
