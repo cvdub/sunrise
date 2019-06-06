@@ -1,7 +1,7 @@
 ---
 title: "Carl Cox and Eric Powell's Mobile Disco"
 date: 2019-05-27T15:15:59+08:00
-draft: true
+draft: false
 ---
 Got the chance to see Carl Cox play a disco set last weekend in Bali, which was amazing (obviously haha). People probably thought I was lame for being on my phone so much, but I couldn't help but Shazam all the deep cuts!
 

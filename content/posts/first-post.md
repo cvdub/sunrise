@@ -1,7 +1,7 @@
 ---
 title: "2 Mello — Memories of Tokyo-To"
 date: 2019-05-27T15:15:52+08:00
-draft: true
+draft: false
 ---
 Check out this really fun and nostalgic album, inspired by one of my favorite childhood Xbox games, Jet Set Radio Future!
 
