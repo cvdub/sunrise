@@ -1,0 +1,3 @@
+[submodule "themes/sunrise"]
+	path = themes/sunrise
+	url = git@git.sr.ht:~cvdub/hugo-sunrise
